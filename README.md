@@ -57,8 +57,10 @@
 - [enlightenment](https://www.enlightenment.org/)
 
 ### Window Manager <br>
-:x: Nothing it's lightweight btw 
-- but you can use [DWM](https://dwm.suckless.org/) , it's very very customizable/minimal window manager
+- [DWM](https://dwm.suckless.org/),- very very customizable/minimal window manager (customizable by code)
+- [i3-gaps](https://github.com/Airblader/i3) - Window Manager (customizable by conf file)
+- [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
+- [IceWM](https://ice-wm.org/) - speed, simplicity, and not getting in the user’s way. It comes with a taskbar with pager, global and per-window keybindings and a dynamic menu system.
 
 ### Terminal <br>
 :x: **Don't use**
