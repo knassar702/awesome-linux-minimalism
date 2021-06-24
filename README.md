@@ -118,10 +118,6 @@
 ### DOCUMENT VIEWER
 - [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
 
-
-### messenger
-- [mumble](https://www.mumble.com/) - discord/matrix alternarive
-- [briar](https://briarproject.org/) - telegram/whatsapp alternarive
 ### static web servers
 - [Quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 
