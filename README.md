@@ -84,7 +84,8 @@
 :x: **Don't use**
 - Offical Spotify Player
 - offical Deezer Player
-:x: **Don't use**
+ 
+✅ **Instead use*** <br>
 - [ncspot](https://github.com/hrkfdn/ncspot) - Command line spotify player for linux 
 - [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux
 
