@@ -6,7 +6,7 @@
 </p>
 
 ### Distributions
-:x: **Don't use** <br>
+:x: **Avoid** <br>
 > any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - Arch linux
 - Ubuntu
@@ -20,7 +20,7 @@
   - if you need to use something useful and from scrach distro with awesome Community ,use [Void Linux](https://voidlinux.org)
 
 ### Browsers <br>
-:x: **Don't use**
+:x: **Avoid**
 - Google Chrome
 - Firefox
 - brave
@@ -31,7 +31,7 @@
 - Lynx - (Terminal Base) you can use it if you wan't to search for static pages like https://suckless.org
 
 ### Text Editors <br>
-:x: **Don't use**
+:x: **Avoid**
 - VSCODE
 - pyCharm
 - any GUI IDE
@@ -41,7 +41,7 @@
 - [Nano](https://www.nano-editor.org/) - simple text editor
 
 ### Desktop Enviroment <br>
-:x: **Don't use**
+:x: **Avoid**
 - Gnome
 - Cinnamon
 - KDE
@@ -63,7 +63,7 @@
 - [IceWM](https://ice-wm.org/) - speed, simplicity, and not getting in the user’s way. It comes with a taskbar with pager, global and per-window keybindings and a dynamic menu system.
 
 ### Terminal <br>
-:x: **Don't use**
+:x: **Avoid**
 - Terminator
 - cool-retro-term
 
@@ -73,7 +73,7 @@
 
 
 ### File Manager <br>
-:x: **Don't use** <br>
+:x: **Avoid** <br>
 - any GUI File manager , it's lightweight yes but with big files it's take more time 
 
 ✅ **Instead use**  <br>
@@ -81,7 +81,7 @@
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alternative for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 ### Songs Stream <br>
-:x: **Don't use**
+:x: **Avoid**
 - Offical Spotify Player
 - offical Deezer Player
  
