@@ -27,11 +27,11 @@
 - brave
 
 ✅ **Instead use**  <br>
-- Otter Browser - Lightweight browers with simple GUI
-- Netsurf - Lightweight browers with simple GUI
-- Midori - ightweight browers with simple GUI
-- Nyxt - Lightweight/keyboard-driven (vi, Emacs, or CUA style)/fully programmable/privacy conscious/power user friendly Browser
-- Lynx - (Terminal Base) you can use it if you want to search for static pages like https://suckless.org
+- [Otter Browser](https://otter-browser.org/) - Lightweight browers with simple GUI
+- [Netsurf](https://www.netsurf-browser.org/) - Lightweight browers with simple GUI
+- [Midori](https://github.com/midori-browser/core) - ightweight browers with simple GUI
+- [Nyxt](https://nyxt.atlas.engineer/) - Lightweight/keyboard-driven (vi, Emacs, or CUA style)/fully programmable/privacy conscious/power user friendly Browser
+- [Lynx](https://lynx.invisible-island.net/) - (Terminal Base) you can use it if you want to search for static pages like https://suckless.org
 
 ### Text Editors <br>
 :x: **Avoid**
