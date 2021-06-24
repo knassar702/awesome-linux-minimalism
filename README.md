@@ -7,7 +7,7 @@
 
 ## Distributions
 :x: **Don't use** <br>
-- any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
+> any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - Arch linux
 - Ubuntu
 - Mint
@@ -100,3 +100,17 @@
 
 ## screenshot
 * [maim](https://github.com/naelstrof/maim) - takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
+
+## DOCUMENT VIEWER
+- [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
+
+
+## static web servers
+- [Quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
+
+## Page generator
+- [saait](https://git.codemadness.org/saait/file/README.html) - simple html pages generator
+- [stagit](https://git.codemadness.org/stagit/file/README.html) - simple html page generator for GIT
+
+## display locker
+- [slock](https://tools.suckless.org/slock/) - Simple X display locker. This is the simplest X screen locker we are aware of
