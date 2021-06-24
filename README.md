@@ -77,7 +77,7 @@
 - any GUI File manager , it's lightweight yes but with big files it's take more time 
 
 ✅ **Instead use**  <br>
-- [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alter for Ranger - Python File manager)
+- [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alternative for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 
 ### Songs Steam <br>
