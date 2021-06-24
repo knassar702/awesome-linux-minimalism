@@ -63,4 +63,10 @@ but you can use [DWM](https://dwm.suckless.org/) , it's very very minalism windo
 
 ## Songs
 if you like spotify use Spot
-if you like 
+if you like Dizer use [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+
+## Media Player
+* MPV
+
+
+
