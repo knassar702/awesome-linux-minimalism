@@ -18,6 +18,7 @@
   - if you love [Debian](https://www.debian.org/) and you want to use APT ,use [Devuan](https://www.devuan.org/)
   - if you love [Arch Linux](https://archlinux.org) and you want to use PACMAN ,use [Artix](https://artixlinux.org/) 
   - if you need to use something useful and from scrach distro with awesome Community ,use [Void Linux](https://voidlinux.org)
+  - if you need t use nix package manager you can use [nix os](https://nixos.org/)
 
 ### Browsers <br>
 :x: **Avoid**
@@ -28,6 +29,7 @@
 ✅ **Instead use**  <br>
 - Otter Browser - Lightweight browers with simple GUI
 - Qutebrowser - Lightweight/Customizable Browser 
+- Nyxt - Lightweight/keyboard-driven (vi, Emacs, or CUA style)/fully programmable/privacy conscious/power user friendly Browser
 - Lynx - (Terminal Base) you can use it if you want to search for static pages like https://suckless.org
 
 ### Text Editors <br>
@@ -38,6 +40,7 @@
 
 ✅ **Instead use**  <br>
 - [VIM](https://www.vim.org/) - customizable/lightweight Text Editor, also you can use it as IDE
+- [Emacs](https://www.gnu.org/software/emacs/) - Like VIM but from GNU
 - [Nano](https://www.nano-editor.org/) - simple text editor
 
 ### Desktop Enviroment <br>
@@ -70,7 +73,8 @@
 ✅ **Instead use**  <br>
 - [ST](https://st.suckless.org) - lightweight/customizable terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add/remove what you want from code and recomplie it :D
 - [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight/customizable terminal
-
+- [Alacrity](https://github.com/alacritty/alacritty)
+- [TYM](https://github.com/endaaman/tym)
 
 ### File Manager <br>
 :x: **Avoid** <br>
@@ -91,6 +95,10 @@
 
 ### Media Player <br>
 * [MPV](https://github.com/mpv-player/mpv) - Command Line/GUI Media player, also you can watch youtube videos without ads with MPV
+* [ncmpcpp](https://wiki.archlinux.org/title/ncmpcpp)
+* [mocp](https://github.com/jonsafari/mocp)
+
+
 ### Image viewer <br>
 - [sxiv](https://github.com/muennich/sxiv) - simple lightweight minimal image viewer
 
@@ -98,18 +106,22 @@
 - [FFMPEG](https://www.ffmpeg.org/) - leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created
 
 
-### simple image editors
-* [Image Magick](https://imagemagick.org/index.php) - Command Line Image editor
+### image editors
+* [Image Magick](https://imagemagick.org/index.php) - simple Command Line Image editor
+* [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor
 
 ### screenshot
 * [maim](https://github.com/naelstrof/maim) - takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [ksnip](https://github.com/ksnip/ksnip) - is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
-- [flamshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software desktop_computer camera_flash
+- [flamshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 
 ### DOCUMENT VIEWER
 - [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
 
 
+### messenger
+- [mumble](https://www.mumble.com/) - discord/matrix alternarive
+- [briar](https://briarproject.org/) - telegram/whatsapp alternarive
 ### static web servers
 - [Quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 
