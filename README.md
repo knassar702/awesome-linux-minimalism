@@ -9,16 +9,18 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - Mint
 - Deepian
 
-**Instead use** 
-* :white_check_mark: use something use init systemd like runit or opencl
+✅ **Instead use** 
+* use something use init system like runit or opencl
   - if you love [Debian](https://www.debian.org/) base and you wan't to use APT you can use [Devuan](https://www.devuan.org/)
   - if you love [Arch Linux](https://archlinux.org) base and you wan't to use PACMAN you can us [Artix](https://artixlinux.org/) 
   - if you need to use something usafily from scrach distro with awesome Community you can use [Void Linux](https://voidlinux.org)
 
 
 ## Browsers
+:x: **Don't use**
 - :x: Google Chrome
 - :x: Firefox
+- :x: brave
 
 - ✅ QupZilla 
 - ✅ Qutebrowser 
@@ -67,6 +69,7 @@ if you like Dizer use [dzr](https://github.com/yne/dzr) - Command line Deezer pl
 
 ## Media Player
 * MPV
-
+## Image viwer
+- sxiv
 
 
