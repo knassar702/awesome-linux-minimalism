@@ -132,6 +132,7 @@
 
 ### static web servers
 - [Quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
+- [SimplyJServer] (https://github.com/Praudyogikee/SimplyJServer) - A HTTP Java server
 
 ### Page generator
 - [saait](https://git.codemadness.org/saait/file/README.html) - simple html pages generator
