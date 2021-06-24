@@ -80,7 +80,7 @@
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alternative for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 
-### Songs Steam <br>
+### Songs Stream <br>
 :x: **Don't use**
 - Offical Spotify Player
 - offical Deezer Player
