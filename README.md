@@ -5,7 +5,7 @@
 	</a>
 </p>
 
-## Distributions
+### Distributions
 :x: **Don't use** <br>
 > any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - Arch linux
@@ -19,7 +19,7 @@
   - if you love [Arch Linux](https://archlinux.org) base and you wan't to use PACMAN ,use [Artix](https://artixlinux.org/) 
   - if you need to use something useful and from scrach distro with awesome Community ,use [Void Linux](https://voidlinux.org)
 
-## Browsers <br>
+### Browsers <br>
 :x: **Don't use**
 - Google Chrome
 - Firefox
@@ -30,7 +30,7 @@
 - Qutebrowser - Lightweight/Customizable Browser 
 - Lynx - (Terminal Base) you can use it if you wan't to search for static pages like https://suckless.org
 
-## Text Editors <br>
+### Text Editors <br>
 :x: **Don't use**
 - VSCODE
 - pyCharm
@@ -40,7 +40,7 @@
 - [VIM](https://www.vim.org/) - customizable/lightweight Text Editor, also you can use it as IDE
 - [Nano](https://www.nano-editor.org/) - simple text editor
 
-## Desktop Enviroment <br>
+### Desktop Enviroment <br>
 :x: **Don't use**
 - Gnome
 - Cinnamon
@@ -56,11 +56,11 @@
 - [lxde](http://www.lxde.org/)
 - [enlightenment](https://www.enlightenment.org/)
 
-## Window Manager <br>
+### Window Manager <br>
 :x: Nothing it's lightweight btw 
 - but you can use [DWM](https://dwm.suckless.org/) , it's very very customizable/minimal window manager
 
-## Terminal <br>
+### Terminal <br>
 :x: **Don't use**
 - Terminator
 - cool-retro-term
@@ -70,7 +70,7 @@
 - [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight/customizable terminal
 
 
-## File Manager <br>
+### File Manager <br>
 :x: **Don't use** <br>
 - any GUI File manager , it's lightweight yes but with big files it's take more time 
 
@@ -78,7 +78,7 @@
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alter for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 
-## Songs Steam <br>
+### Songs Steam <br>
 :x: **Don't use**
 - Offical Spotify Player
 - offical Deezer Player
@@ -86,31 +86,31 @@
 - [ncspot](https://github.com/hrkfdn/ncspot) - Command line spotify player for linux 
 - [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux
 
-## Media Player <br>
+### Media Player <br>
 * [MPV](https://github.com/mpv-player/mpv) - Command Line/GUI Media player, also you can watch youtube videos without ads with MPV
-## Image viewer <br>
+### Image viewer <br>
 - [sxiv](https://github.com/muennich/sxiv) - simple lightweight minimal image viewer
 
-## Video Recording/Edite
+### Video Recording/Edite
 - [FFMPEG](https://www.ffmpeg.org/) - leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created
 
 
-## simple image editors
+### simple image editors
 * [Image Magick](https://imagemagick.org/index.php) - Command Line Image editor
 
-## screenshot
+### screenshot
 * [maim](https://github.com/naelstrof/maim) - takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 
-## DOCUMENT VIEWER
+### DOCUMENT VIEWER
 - [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
 
 
-## static web servers
+### static web servers
 - [Quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
 
-## Page generator
+### Page generator
 - [saait](https://git.codemadness.org/saait/file/README.html) - simple html pages generator
 - [stagit](https://git.codemadness.org/stagit/file/README.html) - simple html page generator for GIT
 
-## display locker
+### display locker
 - [slock](https://tools.suckless.org/slock/) - Simple X display locker. This is the simplest X screen locker we are aware of
