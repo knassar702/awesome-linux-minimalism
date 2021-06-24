@@ -16,7 +16,7 @@
 ✅ **Instead use** <br>
 * use linux distro use init system like runit or opencl
   - if you love [Debian](https://www.debian.org/) and you wan't to use APT ,use [Devuan](https://www.devuan.org/)
-  - if you love [Arch Linux](https://archlinux.org) base and you wan't to use PACMAN ,use [Artix](https://artixlinux.org/) 
+  - if you love [Arch Linux](https://archlinux.org) and you wan't to use PACMAN ,use [Artix](https://artixlinux.org/) 
   - if you need to use something useful and from scrach distro with awesome Community ,use [Void Linux](https://voidlinux.org)
 
 ### Browsers <br>
