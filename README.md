@@ -7,17 +7,17 @@
 
 ## Distributions
 :x: **Don't use** <br>
-any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
+- any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - Arch linux
 - Ubuntu
 - Mint
-- Deepian
+- Debian
 
 ✅ **Instead use** <br>
-* use something use init system like runit or opencl
-  - if you love [Debian](https://www.debian.org/) base and you wan't to use APT you can use [Devuan](https://www.devuan.org/)
-  - if you love [Arch Linux](https://archlinux.org) base and you wan't to use PACMAN you can us [Artix](https://artixlinux.org/) 
-  - if you need to use something usafily from scrach distro with awesome Community you can use [Void Linux](https://voidlinux.org)
+* use linux distro use init system like runit or opencl
+  - if you love [Debian](https://www.debian.org/) and you wan't to use APT ,use [Devuan](https://www.devuan.org/)
+  - if you love [Arch Linux](https://archlinux.org) base and you wan't to use PACMAN ,use [Artix](https://artixlinux.org/) 
+  - if you need to use something useful and from scrach distro with awesome Community ,use [Void Linux](https://voidlinux.org)
 
 ## Browsers <br>
 :x: **Don't use**
@@ -26,18 +26,19 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - brave
 
 ✅ **Instead use**  <br>
-- Otter Browser 
-- Qutebrowser 
+- Otter Browser - Lightweight browers with simple GUI
+- Qutebrowser - Lightweight/Customizable Browser 
 - Lynx - (Terminal Base) you can use it if you wan't to search for static pages like https://suckless.org
 
 ## Text Editors <br>
 :x: **Don't use**
 - VSCODE
 - pyCharm
+- any GUI IDE
 
 ✅ **Instead use**  <br>
-- VIM - (customizable ,lightweight, you can use it as IDE )
-- Nano - (simple text editor)
+- [VIM](https://www.vim.org/) - customizable/lightweight Text Editor, also you can use it as IDE
+- [Nano](https://www.nano-editor.org/) - simple text editor
 
 ## Desktop Enviroment <br>
 :x: **Don't use**
@@ -46,14 +47,18 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - KDE
 
 ✅ **Instead use**  <br>
-- XFCE
-- MATE
-- lxqt
-- lxde
-- enlightenment
+
+> I advise you to use Window Manager instead of Desktop Enviroment but if you wan't Desktop Enviroment use this list
+
+- [XFCE](https://www.xfce.org/)
+- [MATE](https://mate-desktop.org/)
+- [lxqt](https://lxqt-project.org/)
+- [lxde](http://www.lxde.org/)
+- [enlightenment](https://www.enlightenment.org/)
 
 ## Window Manager <br>
-:x: Nothing it's lightweight btw , but you can use [DWM](https://dwm.suckless.org/) , it's very very customizable/minimal window manager
+:x: Nothing it's lightweight btw 
+- but you can use [DWM](https://dwm.suckless.org/) , it's very very customizable/minimal window manager
 
 ## Terminal <br>
 :x: **Don't use**
@@ -61,29 +66,37 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - cool-retro-term
 
 ✅ **Instead use**  <br>
-- [ST](https://st.suckless.org) - lightway terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add/remove what you wan't from code and complie 
-- [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight terminal
+- [ST](https://st.suckless.org) - lightweight/customizable terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add/remove what you wan't from code and recomplie it :D
+- [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight/customizable terminal
 
 
 ## File Manager <br>
 :x: **Don't use** <br>
-- any GUI File manager , it's lightweight yes but with big files it's takae times 
+- any GUI File manager , it's lightweight yes but with big files it's take more time 
 
 ✅ **Instead use**  <br>
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alter for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 
-## Songs <br>
+## Songs Steam <br>
 :x: **Don't use**
-- Offical Spotify player
-
+- Offical Spotify Player
+- offical Deezer Player
 :x: **Don't use**
-- if you like spotify use [ncspot](https://github.com/hrkfdn/ncspot) - Command line spotify player for linux 
-- if you like Dizer use [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux
+- [ncspot](https://github.com/hrkfdn/ncspot) - Command line spotify player for linux 
+- [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux
 
 ## Media Player <br>
-* MPV - Command Line/GUI Media player, also you can watch youtube videos without ads with MPV
-## Image viwer <br>
-- sxiv - simple lightway minmal
+* [MPV](https://github.com/mpv-player/mpv) - Command Line/GUI Media player, also you can watch youtube videos without ads with MPV
+## Image viewer <br>
+- [sxiv](https://github.com/muennich/sxiv) - simple lightweight minimal image viewer
+
+## Video Recording/Edite
+- [FFMPEG](https://www.ffmpeg.org/) - leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created
 
 
+## simple image editors
+* [Image Magick](https://imagemagick.org/index.php) - Command Line Image editor
+
+## screenshot
+* [maim](https://github.com/naelstrof/maim) - takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
