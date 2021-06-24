@@ -77,9 +77,9 @@
 - any GUI File manager , it's lightweight yes but with big files it's take more time 
 
 ✅ **Instead use**  <br>
+- [Ranger](https://github.com/ranger/ranger) - command line file manager written in Python
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alternative for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
-
 ### Songs Stream <br>
 :x: **Don't use**
 - Offical Spotify Player
@@ -103,6 +103,8 @@
 
 ### screenshot
 * [maim](https://github.com/naelstrof/maim) - takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
+- [ksnip](https://github.com/ksnip/ksnip) - is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
+- [flamshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software desktop_computer camera_flash
 
 ### DOCUMENT VIEWER
 - [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
