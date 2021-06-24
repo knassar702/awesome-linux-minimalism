@@ -28,7 +28,8 @@
 
 ✅ **Instead use**  <br>
 - Otter Browser - Lightweight browers with simple GUI
-- Qutebrowser - Lightweight/Customizable Browser 
+- Netsurf - Lightweight browers with simple GUI
+- Midori - ightweight browers with simple GUI
 - Nyxt - Lightweight/keyboard-driven (vi, Emacs, or CUA style)/fully programmable/privacy conscious/power user friendly Browser
 - Lynx - (Terminal Base) you can use it if you want to search for static pages like https://suckless.org
 
@@ -40,8 +41,10 @@
 
 ✅ **Instead use**  <br>
 - [VIM](https://www.vim.org/) - customizable/lightweight Text Editor, also you can use it as IDE
-- [Emacs](https://www.gnu.org/software/emacs/) - Like VIM but from GNU
+- [Emacs](https://www.gnu.org/software/emacs/) - customizable/lightweight Text Editor, also you can use it as IDE from GNu
+- [Ed](https://www.gnu.org/software/ed/) - Ed - A line-oriented text editor
 - [Nano](https://www.nano-editor.org/) - simple text editor
+- [vis](https://github.com/martanne/vis) - mix of vim+sam text editor and 10x lighter than vim
 
 ### Desktop Enviroment <br>
 :x: **Avoid**
@@ -73,8 +76,11 @@
 ✅ **Instead use**  <br>
 - [ST](https://st.suckless.org) - lightweight/customizable terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add/remove what you want from code and recomplie it :D
 - [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight/customizable terminal
+- [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [Alacrity](https://github.com/alacritty/alacritty)
 - [TYM](https://github.com/endaaman/tym)
+- [Sakura](https://www.linuxlinks.com/sakura/)
+- [dvtm](https://www.brain-dump.org/projects/dvtm/)
 
 ### File Manager <br>
 :x: **Avoid** <br>
@@ -84,6 +90,7 @@
 - [Ranger](https://github.com/ranger/ranger) - command line file manager written in Python
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alternative for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
+- [FFF](https://github.com/dylanaraps/fff) - command line file manager written in bash
 ### Songs Stream <br>
 :x: **Avoid**
 - Offical Spotify Player
@@ -114,9 +121,14 @@
 * [maim](https://github.com/naelstrof/maim) - takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [ksnip](https://github.com/ksnip/ksnip) - is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
 - [flamshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
+* [scort](https://github.com/resurrecting-open-source-projects/scrot) - command line screen capture utility
+
+### wallpaper setter
+* [nitrogen](https://wiki.archlinux.org/title/nitrogen)
+* [feh](https://github.com/derf/feh)
 
 ### DOCUMENT VIEWER
-- [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
+- [GV](https://www.gnu.org/software/gv/) - GNU GV allows viewing and navigating PostScript and PDF documents on an X display, by providing a graphical user interface for the Ghostscript interpreter
 
 ### static web servers
 - [Quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
