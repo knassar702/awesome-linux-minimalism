@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://awesome.re">
 		<img src="https://awesome.re/badge.svg" alt="Awesome">
-	  	<a href="https://git.nixnet.services/pluja/awesome-privacy"><img alt="Mirror" src="https://img.shields.io/badge/Mirror-gitea-green"></img></a>
 	</a>
 </p>
 
@@ -20,22 +19,25 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
   - if you love [Arch Linux](https://archlinux.org) base and you wan't to use PACMAN you can us [Artix](https://artixlinux.org/) 
   - if you need to use something usafily from scrach distro with awesome Community you can use [Void Linux](https://voidlinux.org)
 
-
 ## Browsers <br>
 :x: **Don't use**
-- :x: Google Chrome
-- :x: Firefox
-- :x: brave
+- Google Chrome
+- Firefox
+- brave
 
-- ✅ QupZilla 
-- ✅ Qutebrowser 
-- ✅ Lynx (Terminal Base) you can use it if you wan't to search for static pages like https://suckless.org
+✅ **Instead use**  <br>
+- Otter Browser 
+- Qutebrowser 
+- Lynx - (Terminal Base) you can use it if you wan't to search for static pages like https://suckless.org
 
 ## Text Editors <br>
-- :x: VSCODE
-- :x: pyCharm
-- ✅ VIM (custimzable ,lightway, you can use it as IDE )
-- ✅ Nano (simple for text edtiting)
+:x: **Don't use**
+- VSCODE
+- pyCharm
+
+✅ **Instead use**  <br>
+- VIM - (custimzable ,lightweight, you can use it as IDE )
+- Nano - (simple for text edtiting)
 
 ## Desktop Enviroment <br>
 :x: **Don't use**
@@ -46,35 +48,43 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 ✅ **Instead use**  <br>
 - XFCE
 - MATE
+- lxqt
+- lxde
+- enlightenment
 
 ## Window Manager <br>
-:x: Nothing it's lightway btw
+:x: Nothing it's lightweight btw
 but you can use [DWM](https://dwm.suckless.org/) , it's very very minalism window manager
 
 ## Terminal <br>
-:x: Terminator
-:x: cool-retro-term
+:x: **Don't use**
+- Terminator
+- cool-retro-term
 
 ✅ **Instead use**  <br>
-- [ST](https://st.suckless.org)
-- [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode)
+- [ST](https://st.suckless.org) - lightway terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add what you wan't in code
+- [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lih
 
 
 ## File Manager <br>
 :x: **Don't use** <br>
-- any GUI File manager , it's lightway yes but with big files it's takae times 
+- any GUI File manager , it's lightweight yes but with big files it's takae times 
 
 ✅ **Instead use**  <br>
-- [LF](https://github.com/gokcehan/lf)
-- [NNN](https://github.com/jarun/nnn)
+- [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alter for Ranger - Python File manager)
+- [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 
 ## Songs <br>
-if you like spotify use Spot
-if you like Dizer use [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+:x: **Don't use**
+- Offical Spotify player
+
+:x: **Don't use**
+- if you like spotify use [ncspot](https://github.com/hrkfdn/ncspot) - Command line spotify player for linux 
+- if you like Dizer use [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux
 
 ## Media Player <br>
-* MPV
+* MPV - Command Line/GUI Media player, also you can watch youtube videos without ads with MPV
 ## Image viwer <br>
-- sxiv
+- sxiv - simple lightway minmal
 
 
