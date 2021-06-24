@@ -36,8 +36,8 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - pyCharm
 
 ✅ **Instead use**  <br>
-- VIM - (custimzable ,lightweight, you can use it as IDE )
-- Nano - (simple for text edtiting)
+- VIM - (customizable ,lightweight, you can use it as IDE )
+- Nano - (simple text editor)
 
 ## Desktop Enviroment <br>
 :x: **Don't use**
@@ -53,8 +53,7 @@ any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - enlightenment
 
 ## Window Manager <br>
-:x: Nothing it's lightweight btw
-but you can use [DWM](https://dwm.suckless.org/) , it's very very minalism window manager
+:x: Nothing it's lightweight btw , but you can use [DWM](https://dwm.suckless.org/) , it's very very customizable/minimal window manager
 
 ## Terminal <br>
 :x: **Don't use**
@@ -62,8 +61,8 @@ but you can use [DWM](https://dwm.suckless.org/) , it's very very minalism windo
 - cool-retro-term
 
 ✅ **Instead use**  <br>
-- [ST](https://st.suckless.org) - lightway terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add what you wan't in code
-- [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lih
+- [ST](https://st.suckless.org) - lightway terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add/remove what you wan't from code and complie 
+- [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight terminal
 
 
 ## File Manager <br>
