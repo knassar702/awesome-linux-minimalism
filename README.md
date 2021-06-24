@@ -6,7 +6,7 @@
 </p>
 
 ### Distributions
-:x: **Avoid** <br>
+:x: **Don't use** <br>
 > any linux distro use systemd and this [why](https://suckless.org/sucks/systemd/)
 - Arch linux
 - Ubuntu
@@ -15,12 +15,12 @@
 
 ✅ **Instead use** <br>
 * use linux distro use init system like runit or opencl
-  - if you love [Debian](https://www.debian.org/) and you wan't to use APT ,use [Devuan](https://www.devuan.org/)
-  - if you love [Arch Linux](https://archlinux.org) and you wan't to use PACMAN ,use [Artix](https://artixlinux.org/) 
+  - if you love [Debian](https://www.debian.org/) and you want to use APT ,use [Devuan](https://www.devuan.org/)
+  - if you love [Arch Linux](https://archlinux.org) and you want to use PACMAN ,use [Artix](https://artixlinux.org/) 
   - if you need to use something useful and from scrach distro with awesome Community ,use [Void Linux](https://voidlinux.org)
 
 ### Browsers <br>
-:x: **Avoid**
+:x: **Don't use**
 - Google Chrome
 - Firefox
 - brave
@@ -28,10 +28,10 @@
 ✅ **Instead use**  <br>
 - Otter Browser - Lightweight browers with simple GUI
 - Qutebrowser - Lightweight/Customizable Browser 
-- Lynx - (Terminal Base) you can use it if you wan't to search for static pages like https://suckless.org
+- Lynx - (Terminal Base) you can use it if you want to search for static pages like https://suckless.org
 
 ### Text Editors <br>
-:x: **Avoid**
+:x: **Don't use**
 - VSCODE
 - pyCharm
 - any GUI IDE
@@ -41,14 +41,14 @@
 - [Nano](https://www.nano-editor.org/) - simple text editor
 
 ### Desktop Enviroment <br>
-:x: **Avoid**
+:x: **Don't use**
 - Gnome
 - Cinnamon
 - KDE
 
 ✅ **Instead use**  <br>
 
-> I advise you to use Window Manager instead of Desktop Enviroment but if you wan't Desktop Enviroment use this list
+> I advise you to use Window Manager instead of Desktop Enviroment but if you want Desktop Enviroment use this list
 
 - [XFCE](https://www.xfce.org/)
 - [MATE](https://mate-desktop.org/)
@@ -63,17 +63,17 @@
 - [IceWM](https://ice-wm.org/) - speed, simplicity, and not getting in the user’s way. It comes with a taskbar with pager, global and per-window keybindings and a dynamic menu system.
 
 ### Terminal <br>
-:x: **Avoid**
+:x: **Don't use**
 - Terminator
 - cool-retro-term
 
 ✅ **Instead use**  <br>
-- [ST](https://st.suckless.org) - lightweight/customizable terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add/remove what you wan't from code and recomplie it :D
+- [ST](https://st.suckless.org) - lightweight/customizable terminal by [Suckless Team](https://suckless.org) you need to patch your terminal and add/remove what you want from code and recomplie it :D
 - [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight/customizable terminal
 
 
 ### File Manager <br>
-:x: **Avoid** <br>
+:x: **Don't use** <br>
 - any GUI File manager , it's lightweight yes but with big files it's take more time 
 
 ✅ **Instead use**  <br>
@@ -81,7 +81,7 @@
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alternative for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 ### Songs Stream <br>
-:x: **Avoid**
+:x: **Don't use**
 - Offical Spotify Player
 - offical Deezer Player
  
