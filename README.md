@@ -128,6 +128,7 @@
 * [feh](https://github.com/derf/feh)
 
 ### DOCUMENT VIEWER
+- [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
 - [GV](https://www.gnu.org/software/gv/) - GNU GV allows viewing and navigating PostScript and PDF documents on an X display, by providing a graphical user interface for the Ghostscript interpreter
 
 ### static web servers
