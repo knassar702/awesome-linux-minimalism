@@ -21,17 +21,20 @@
   - if you need t use nix package manager you can use [nix os](https://nixos.org/)
 
 ### Browsers <br>
-:x: **Avoid**
-- Google Chrome
-- Firefox
-- brave
-
-✅ **Instead use**  <br>
-- [Otter Browser](https://otter-browser.org/) - Lightweight browers with simple GUI
-- [Netsurf](https://www.netsurf-browser.org/) - Lightweight browers with simple GUI
-- [Midori](https://github.com/midori-browser/core) - ightweight browers with simple GUI
-- [Nyxt](https://nyxt.atlas.engineer/) - Lightweight/keyboard-driven (vi, Emacs, or CUA style)/fully programmable/privacy conscious/power user friendly Browser
-- [Lynx](https://lynx.invisible-island.net/) - (Terminal Base) you can use it if you want to search for static pages like https://suckless.org
+*   [Abaco](http://lab-fgb.com/abaco/) - A graphical web browser for Plan 9 that supports most of HTML 4.01.
+*   [Conkeror](http://www.conkeror.org/) - A Gecko based browser, with Emacs-style key bindings, appearances and behaviors.
+*   [Dillo](https://www.dillo.org/) - Blazingly fast graphical browser with basic CSS support.
+*   [edbrowse](http://edbrowse.org/) - ed-alike webbrowser. Unfortunately it is not the standard web browser.
+*   [ELinks](http://elinks.or.cz/) - Feature-rich fork of Links, but without the graphical mode.
+*   [Links](http://links.twibright.com/) - A text-based browser that also has a simple graphical mode.
+*   [Lynx](http://lynx.invisible-island.net/) - text-mode web browser, supports the Gopher protocol.
+*   [netsurf](http://www.netsurf-browser.org/) - Very fast graphical browser with custom engine that has near-perfect CSS support.
+*   [surf](//surf.suckless.org/) - WebKit2 browser that can be embedded into other applications and uses dmenu as the address bar.
+*   [Tridactyl](https://github.com/cmcaine/tridactyl) - A WebExtension that tries to make Firefox Vim like. Unlike many similar extensions it works with firefox 57+.
+*   [uzbl](https://www.uzbl.org/) - Web interface tools which adhere to the UNIX philosophy.
+*   [VimFX](https://addons.mozilla.org/en-US/firefox/addon/vimfx/) - Vimperator (Doesn't work with Firefox 57+)
+*   [Vimperator](http://vimperator.org/) - An extension to make Firefox keyboard friendly and Vim-like. (Doesn't work with Firefox 57+).
+*   [w3m](http://w3m.sourceforge.net/) - Text-based browser which can view images in the terminal (X11 hack).
 
 ### Text Editors <br>
 :x: **Avoid**
@@ -40,11 +43,19 @@
 - any GUI IDE
 
 ✅ **Instead use**  <br>
-- [VIM](https://www.vim.org/) - customizable/lightweight Text Editor, also you can use it as IDE
-- [Emacs](https://www.gnu.org/software/emacs/) - customizable/lightweight Text Editor, also you can use it as IDE from GNu
-- [Ed](https://www.gnu.org/software/ed/) - Ed - A line-oriented text editor
-- [Nano](https://www.nano-editor.org/) - simple text editor
-- [vis](https://github.com/martanne/vis) - mix of vim+sam text editor and 10x lighter than vim
+*   [acme](http://acme.cat-v.org) - Rob Pike's framing text editor for Plan 9\. Included in [plan9port](https://9fans.github.io/plan9port/).
+*   [ed](https://9fans.github.io/plan9port/man/man1/ed.html) - [ED IS THE STANDARD TEXT EDITOR!](https://www.gnu.org/fun/jokes/ed-msg.html)
+*   [ired](http://www.radare.org/r/) - A minimalist hexadecimal editor and bindiffer for p9, w32 and *nix.
+*   [mg](https://homepage.boetes.org/software/mg/) - A portable version of mg maintained by the OpenBSD team.
+*   [mle](https://github.com/adsr/mle) - A small, flexible console text editor.
+*   [nano](https://www.nano-editor.org/) - A pico clone - this is small simple code and easy to use.
+*   [nvi](https://sites.google.com/a/bostic.com/keithbostic/vi) - A small, multiple file vi-alike.
+*   [micro](https://micro-editor.github.io/) - A terminal text editor, written in go with common key bindings like ctrl-c to copy and ctrl-v to paste.
+*   [sam](http://sam.cat-v.org/) - An editor by Rob Pike with inspiration from ed.
+*   [traditional vi](http://ex-vi.sourceforge.net/) - A fixed version of the original vi.
+*   [vim](https://www.vim.org) (With the GUI, use `:set go+=c` to kill popup dialogs). It can be compiled to be as minimal as possible (see vim-tiny in Debian repos).
+*   [vis](https://github.com/martanne/vis) - A modern, legacy free, simple yet efficient vim-like editor.
+*   [wily](http://www.cse.yorku.ca/~oz/wily/) - An acme clone for POSIX.
 
 ### Desktop Enviroment <br>
 :x: **Avoid**
@@ -101,18 +112,62 @@
 - [ncspot](https://github.com/hrkfdn/ncspot) - Command line spotify player for linux 
 - [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux
 
+
+### Mail clients
+*   [aerc](https://git.sr.ht/~sircmpwn/aerc) - email client for your terminal.
+*   [fdm](https://github.com/nicm/fdm) - fetch and deliver mail.
+*   [heirloom-mailx](http://heirloom.sourceforge.net/mailx.html) - A mail client based on the original Berkeley Mail 8.1 with many new features.
+*   [isync](http://isync.sourceforge.net/) - MDA that can work better for IMAP, also known as mbsync.
+*   [mblaze](https://github.com/chneukirchen/mblaze) - UNIX utilities to deal with Maildir.
+*   [mmh](http://marmaro.de/prog/mmh/) - Meillo's mail handler (mmh), a fork of nmh.
+*   [mpop](https://marlam.de/mpop/) - a POP3 mail client. It is much [faster and simpler than fetchmail](https://marlam.de/mpop/documentation).
+*   [mutt](http://www.mutt.org/) - A ncurses mail client for fetching, reading and sending email.
+*   [nmh](http://www.nongnu.org/nmh/) - Message Handling System.
+*   [plan9port/Mail](https://9fans.github.io/usr/local/plan9/mail/) - A mail client for acme. Included with [plan9port](https://9fans.github.io/plan9port/).
+*   [s-nail](https://www.sdaoden.eu/code.html) - An improved heirloom-mailx.
+
+### Notifications
+* [herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal, lightweight & written in C. You can use tiramisu to call herbe.
+* [tiramisu](https://github.com/Sweets/tiramisu) - Tiramisu is a notification daemon based on dunst that outputs notifications to STDOUT in order to allow the user to process notifications any way they prefer, like in your dwm statusbar for example.
+
 ### Media Player <br>
+* [ffplay](https://www.ffmpeg.org/ffplay.html) - FFplay is a very simple and portable media player. It came with ffmpeg which depends on [mplayer](http://www.mplayerhq.hu/design7/news.html).
 * [MPV](https://github.com/mpv-player/mpv) - Command Line/GUI Media player, also you can watch youtube videos without ads with MPV
 * [ncmpcpp](https://wiki.archlinux.org/title/ncmpcpp)
 * [mocp](https://github.com/jonsafari/mocp)
 
 
 ### Image viewer <br>
-- [sxiv](https://github.com/muennich/sxiv) - simple lightweight minimal image viewer
+*   [feh](https://feh.finalrewind.org/) - A highly customizable image viewer that can also set a desktop background image.
+*   [imv](https://github.com/exec64/imv) - Simple X11/Wayland Image Viewer. Depends on SDL2 and FreeImage.
+*   [jpg/gif/bmp/png](https://9fans.github.io/plan9port/) - Simple programs from Plan 9 to display images in no-frills windows. Included with [plan9port](https://9fans.github.io/plan9port/).
+*   [lel](https://git.codemadness.org/lel/file/README.html) - Farbfeld image viewer.
+*   [meh](https://www.johnhawthorn.com/meh/) - image viewer using raw XLib, libjpeg, libpng and libgif.
+*   [page](https://9fans.github.io/plan9port/man/man1/page.html) - Plan 9's image/document viewer program. Included with [plan9port](https://9fans.github.io/plan9port/).
+*   [qiv](https://spiegl.de/qiv/) - Quick Image Viewer.
+*   [sxiv](https://github.com/muennich/sxiv) - Simple (or small or suckless) X Image Viewer. Depends on xlib and imlib2.
+*   [xli](http://web.aanet.com.au/gwg/xli.html)
+*   [xwallpaper](https://github.com/stoeckmann/xwallpaper) Minimalistic wallpaper utility
+*   [xzgv](http://sourceforge.net/projects/xzgv/)
+
+### Password managers
+*   [pass](https://www.passwordstore.org/) - "The standard UNIX password manager".
+*   [spm](https://notabug.org/kl3/spm/) - Simple password manager (actively maintained fork of nmeum's tpm).
+*   [tpm](https://github.com/nmeum/tpm/) - Tiny password manager.
+
+### Audio Player
+
+*   [C* Music Player](https://cmus.github.io/) - aka cmus, an ncurses music player that can be controlled with a UNIX socket.
+*   [moc](https://moc.daper.net/) - console audio player for Linux/UNIX.
+*   [mpd](https://www.musicpd.org/) - A client/server based music player with console and graphical front-ends.
+*   [mpg123](http://www.mpg123.de/) - A console MPG player which doesn't use auto*hell or extra libraries.
+*   [mpg321](http://mpg321.sourceforge.net) - A command-line MP3 player.
+*   [mus](https://sr.ht/~q3cpma/mus/) - Modular daemon/client CLI player consuming a plaintext album directory queue
+*   [vorbis-tools](https://www.xiph.org/) (Ogg/FLAC) - Command-line tools to play Ogg and FLAC files.
 
 ### Video Recording/Edite
 - [FFMPEG](https://www.ffmpeg.org/) - leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created
-
+- [ShotCut](https://shotcut.org/) - Shotcut is a free, open source, cross-platform video editor.
 
 ### image editors
 * [Image Magick](https://imagemagick.org/index.php) - simple Command Line Image editor
@@ -124,16 +179,33 @@
 - [flamshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 * [scort](https://github.com/resurrecting-open-source-projects/scrot) - command line screen capture utility
 
+### X11
+*   [9menu](https://github.com/arnoldrobbins/9menu/) - A menu program based on the Blit-style menus so prevalent in Plan 9.
+*   [dmenu](//tools.suckless.org/dmenu/) - dmenu is a dynamic menu for X.
+*   [ffcast](https://github.com/lolilolicon/FFcast) - Simple screencasting.
+*   [grabc](http://www.muquit.com/muquit/software/grabc/grabc.html) - Grab the color of some pixel in X11.
+*   [keynav](http://www.semicomplete.com/projects/keynav/) - A new way for keyboard selection.
+*   [wmutils](https://github.com/wmutils/core) - A set of utilities for managing windows. Can be used on their own or to augment a WM itself. Support for tiling present.
+*   [xbanish](https://github.com/jcs/xbanish) - Hide the cursor while typing.
+*   [xclip](https://github.com/astrand/xclip) - A tool for controlling the X11 clipboard.
+*   [xdotool](http://www.semicomplete.com/projects/xdotool/) - A tool for scripting X11 actions.
+*   [xzoom](http://r-36.net/scm/xzoom/) - A simple zoom application.
+
 ### wallpaper setter
 * [nitrogen](https://wiki.archlinux.org/title/nitrogen)
 * [feh](https://github.com/derf/feh)
 
 ### DOCUMENT VIEWER
 - [ZATHURA](https://github.com/pwmt/zathura) - lightweight/customizable Document viewer
-- [GV](https://www.gnu.org/software/gv/) - GNU GV allows viewing and navigating PostScript and PDF documents on an X display, by providing a graphical user interface for the Ghostscript interpreter
+- [GV](https://www.gnu.org/software/gv/) - GV allows viewing and navigating PostScript and PDF documents on an X display, by providing a graphical user interface for the Ghostscript interpreter
 
 ### static web servers
 - [Quark](https://tools.suckless.org/quark/) - quark is an extremely small and simple HTTP GET/HEAD-only web server for static content.
+*   [darkhttpd](https://unix4lyfe.org/darkhttpd/) - Darkhttpd is a simple, fast HTTP 1.1 web server for static content.
+*   [merecat](https://github.com/troglobit/merecat/) - thttpd with vhost support.
+*   [mini_httpd](http://acme.com/software/mini_httpd/) - By the thttpd developers. Even smaller subset of thttpd with support for .htpasswd, CGI, dirlisting, HTTP errors and SSL, nothing more or less than that.
+*   [OpenBSD httpd/relayd](https://bsd.plumbing/) - Designed to combat the feature creep of modern webservers. Boasts concise configuration, with sane defaults.
+*   [thttpd](http://acme.com/software/thttpd/) - Outperforms many bigger httpds. Old, still works very well!
 
 ### Page generator
 - [saait](https://git.codemadness.org/saait/file/README.html) - simple html pages generator
