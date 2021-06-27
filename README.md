@@ -78,6 +78,7 @@
 - [RXVT](https://wiki.archlinux.org/title/Rxvt-unicode) - lightweight/customizable terminal
 - [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [Alacrity](https://github.com/alacritty/alacritty)
+- [Kitty](https://sw.kovidgoyal.net/kitty/) - the fast, featureful, GPU based terminal emulator 
 - [TYM](https://github.com/endaaman/tym)
 - [Sakura](https://www.linuxlinks.com/sakura/)
 - [dvtm](https://www.brain-dump.org/projects/dvtm/)
