@@ -103,6 +103,7 @@
 - [LF](https://github.com/gokcehan/lf) - Command line file manager written in GO (alternative for Ranger - Python File manager)
 - [NNN](https://github.com/jarun/nnn) - Command line file manager written in C
 - [FFF](https://github.com/dylanaraps/fff) - command line file manager written in bash
+- [sfm](https://github.com/afify/sfm) - simple file manager
 ### Songs Stream <br>
 :x: **Avoid**
 - Offical Spotify Player
