@@ -214,3 +214,7 @@
 
 ### display locker
 - [slock](https://tools.suckless.org/slock/) - Simple X display locker. This is the simplest X screen locker we are aware of
+
+
+### recycle bin 
+- [trash-cli](https://github.com/knassar702/trash-cli) - Minimal CLI recycle bin written in Rust 🦀
