@@ -93,6 +93,8 @@
 - [TYM](https://github.com/endaaman/tym)
 - [Sakura](https://www.linuxlinks.com/sakura/)
 - [dvtm](https://www.brain-dump.org/projects/dvtm/)
+- [contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
+- [rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 ### File Manager <br>
 :x: **Avoid** <br>
