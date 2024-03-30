@@ -15,10 +15,10 @@
 
 ✅ **Instead use** <br>
 * use linux distro use init system like runit or opencl
+  - if you want something cool and very light, use [Alpine](https://www.alpinelinux.org/)
   - if you love [Debian](https://www.debian.org/) and you want to use APT ,use [Devuan](https://www.devuan.org/)
   - if you love [Arch Linux](https://archlinux.org) and you want to use PACMAN ,use [Artix](https://artixlinux.org/) 
   - if you need to use something useful and from scratch distro with awesome Community ,use [Void Linux](https://voidlinux.org)
-  - if you need t use nix package manager you can use [nix os](https://nixos.org/)
 
 ### Browsers <br>
 *   [Abaco](http://lab-fgb.com/abaco/) - A graphical web browser for Plan 9 that supports most of HTML 4.01.
