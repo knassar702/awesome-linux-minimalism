@@ -47,6 +47,7 @@
 *   [ed](https://9fans.github.io/plan9port/man/man1/ed.html) - [ED IS THE STANDARD TEXT EDITOR!](https://www.gnu.org/fun/jokes/ed-msg.html)
 *   [ired](http://www.radare.org/r/) - A minimalist hexadecimal editor and bindiffer for p9, w32 and *nix.
 *   [mg](https://homepage.boetes.org/software/mg/) - A portable version of mg maintained by the OpenBSD team.
+*   [helix](https://helix-editor.com/) - A post-modern modal text editor heavily based on Kakoune written in Rust. 
 *   [mle](https://github.com/adsr/mle) - A small, flexible console text editor.
 *   [nano](https://www.nano-editor.org/) - A pico clone - this is small simple code and easy to use.
 *   [nvi](https://sites.google.com/a/bostic.com/keithbostic/vi) - A small, multiple file vi-alike.
