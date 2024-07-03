@@ -14,7 +14,7 @@
 - Debian
 
 ✅ **Instead use** <br>
-* use linux distro use init system like runit or opencl
+* use linux distro use init system like runit or openrc
   - if you want something cool and very light, use [Alpine](https://www.alpinelinux.org/)
   - if you love [Debian](https://www.debian.org/) and you want to use APT ,use [Devuan](https://www.devuan.org/)
   - if you love [Arch Linux](https://archlinux.org) and you want to use PACMAN ,use [Artix](https://artixlinux.org/) 
