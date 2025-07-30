@@ -127,3 +127,4 @@ Secure, minimalist password managers for your terminal:
 - **Static web servers**: [quark](https://tools.suckless.org/quark/), [darkhttpd](https://github.com/emikulic/darkhttpd)
 - **Media players**: [MPV](https://mpv.io/), [mocp](https://moc.daper.net/)
 - **Terminal multiplexer**: [mtm](https://github.com/deadpixi/mtm) – the smallest useful terminal multiplexer.
+- **Security & Compliance**: [Pareto Security](https://github.com/paretoSecurity/agent)
