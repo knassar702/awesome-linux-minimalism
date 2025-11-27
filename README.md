@@ -66,7 +66,7 @@ If you prefer desktop environments over window managers, here are some lighter o
 For an even more minimalistic setup, consider these window managers:
 
 - **[DWM](https://dwm.suckless.org/)**: A highly customizable and minimal window manager, customizable via code.
-- **[i3-gaps](https://github.com/Airblader/i3)**: A tiling window manager customizable via config files.
+- **[i3](https://github.com/i3/i3)**: A tiling window manager customizable via config files.
 - **[bspwm](https://github.com/baskerville/bspwm)**: A tiling window manager based on binary space partitioning.
 - **[IceWM](https://ice-wm.org/)**: Known for its speed, simplicity, and low resource usage.
 
